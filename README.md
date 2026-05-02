@@ -28,10 +28,7 @@ The goal is to identify growth patterns, compare states, and visualize demograph
 
 ---
 
-## 📷 Dashboard Preview
-![US Population Dashboard](images/dashboard.png)
 
----
 
 ## 📊 Key Insights
 - California and Texas show the highest population growth  
@@ -52,3 +49,37 @@ US-State-Population-Analysis/
 ├── sql_queries.sql
 ├── powerbi_dashboard.pbix
 └── README.md
+
+
+## 🗄️ SQL Analysis
+
+The dataset was analyzed using SQL to extract insights about population growth trends across US states.
+
+### 📊 Key SQL Queries Used
+
+
+-- Total population growth by state
+SELECT 
+    state,
+    (MAX(population) - MIN(population)) AS total_growth
+FROM state_population
+GROUP BY state
+ORDER BY total_growth DESC;
+
+
+
+
+-- Population trend over time
+SELECT 
+    year,
+    SUM(population) AS total_population
+FROM state_population
+GROUP BY year
+ORDER BY year;
+
+
+
+### 🔍 What this analysis shows
+- Identifies states with the highest population growth  
+- Shows overall population trend across years  
+- Helps compare regional development patterns  
