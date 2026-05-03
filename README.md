@@ -53,7 +53,7 @@ US-State-Population-Analysis/
 └── README.md
 
 
-## 🗄️ SQL Analysis
+### 🗄️ SQL Analysis
 
 The dataset was analyzed using SQL to extract insights about population growth trends across US states.
 
