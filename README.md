@@ -29,7 +29,7 @@ The goal is to identify growth patterns, compare states, and visualize demograph
 ---
 ## 📊 Dashboard Preview
 
-![image alt]
+![image alt](https://github.com/eltonasuquo67-ship-it/-US-Population-Analysis/blob/2c68b18b69ff37c26c02a809ce799b99654a3473/PHOTO-2026-05-03-13-26-27.jpg)
 
 
 ## 📊 Key Insights
