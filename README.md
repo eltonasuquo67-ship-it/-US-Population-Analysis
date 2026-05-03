@@ -33,7 +33,7 @@ The goal is to identify growth patterns, compare states, and visualize demograph
 
 ➡️ The South region dominates, containing nearly one-third of all US states.
 
-⸻
+
 
 
 ## 📈 Population Growth Trend (Example: California)
@@ -44,7 +44,7 @@ The goal is to identify growth patterns, compare states, and visualize demograph
 
 ➡️ States like California show consistent long-term growth, driven by economic opportunities and migration.
 
-⸻
+
 
 
 ## 🌍 Overall Population Trend
@@ -54,7 +54,7 @@ The goal is to identify growth patterns, compare states, and visualize demograph
 
 ➡️ Indicates national population expansion and urbanization trends
 
-⸻
+
 
 
 ## 🏙️ State-Level Contribution
@@ -64,7 +64,7 @@ The goal is to identify growth patterns, compare states, and visualize demograph
 
 ➡️ Population distribution is uneven, with a few states driving national totals.
 
-⸻
+
 
 
 ## 📊 Census Region Breakdown
