@@ -6,11 +6,15 @@
 
 ---
 
+
+
 ## 📌 Project Overview
 This project analyzes population trends across different US states from 1950 to 2015.  
 The goal is to identify growth patterns, compare states, and visualize demographic changes using data analysis tools.
 
 ---
+
+
 
 ## 🎯 Objectives
 - Clean and structure US state population dataset  
@@ -20,6 +24,7 @@ The goal is to identify growth patterns, compare states, and visualize demograph
 - Generate insights for demographic trends  
 
 ---
+
 
 
 ## 📊 Key Insights
@@ -36,6 +41,7 @@ The goal is to identify growth patterns, compare states, and visualize demograph
 
 
 
+
 ## 📈 Population Growth Trend (Example: California)
 
 * 1950: ~10M
@@ -43,6 +49,7 @@ The goal is to identify growth patterns, compare states, and visualize demograph
 * Growth: +290% increase
 
 ➡️ States like California show consistent long-term growth, driven by economic opportunities and migration.
+
 
 
 
@@ -57,12 +64,14 @@ The goal is to identify growth patterns, compare states, and visualize demograph
 
 
 
+
 ## 🏙️ State-Level Contribution
 
 * High population states dominate the total trend (e.g., California, Texas, Florida)
 * Smaller states contribute less but show steady growth patterns
 
 ➡️ Population distribution is uneven, with a few states driving national totals.
+
 
 
 
@@ -80,15 +89,20 @@ The dataset categorizes states into:
 
 
 
+
 ## 🛠️ Tools & Technologies
 - 📊 Microsoft Excel (Data Cleaning & Preparation)  
 - 🗄️ SQL (Data Querying & Analysis)  
 - 📈 Power BI (Dashboard & Visualization)  
 
 ---
+
+
 ## 📊 Dashboard Preview
 
 ![image alt](https://github.com/eltonasuquo67-ship-it/global-cybersecurity-threat-analysis-2015-2024/blob/0c7e824e5a3633eb5f26ce3a67a603b1221562e8/PHOTO-2026-05-03-13-26-27%204.jpg)
+
+
 
 
 ## 📊 Observations
@@ -98,6 +112,7 @@ The dataset categorizes states into:
 - Population shift increased toward urbanized states  
 
 ---
+
 
 ## 📁 Project Structure
 ``` id="g2n8ks"
